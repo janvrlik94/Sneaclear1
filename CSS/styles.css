@@ -179,6 +179,16 @@ text-align: center;
 
 /*impregnacia.html*/
 
+.dropbtn1 {
+  color: black;
+  padding: 0px 0px 0px 8px;
+  font-size: 15px;
+  font-weight: lighter;
+  font-family: serif;
+  border: none;
+  cursor: crosshair;
+}
+
 .wrapper-video {
   display: block;
   width: 100%;
