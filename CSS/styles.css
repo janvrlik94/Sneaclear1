@@ -163,7 +163,7 @@ a:hover {
   height: 55px;
   font-size: 15px;
   position: relative;
-  bottom: 0px;
+  bottom: 10px;
   background-color: #cffdf8;
   color: #216583;
   text-align: center;
@@ -177,7 +177,7 @@ a:hover {
   font-size: 15px;
   font-weight: bold;
   position: relative;
-  bottom: 15px;
+  bottom: 10px;
   text-align: center;
   margin-top: 15px;
 }
